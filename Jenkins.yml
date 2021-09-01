@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2021-09-01
 Description:
   This template creates an EC2 instance which runs Jenkins.
   The initial password of the Jenkins instance will be shown in the outputs tab
